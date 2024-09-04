@@ -15,20 +15,21 @@ Welcome to the Cryptocurrency Tracker App! This React-based application provides
 
 ## Usage
 - Open your browser and navigate to `http://localhost:3000`.
-- Explore the cryptocurrency prices and trends.
+- Browse through real-time cryptocurrency data and market trends.
 
 </br>
 
 # Find Property on Rent App
 
 ## Overview
-This is a small web application to find rental properties. The app is built using React and Redux, allowing users to search and filter properties based on specific criteria.
+The Rental Property Finder App is a web application designed to help users discover rental properties with ease. Built using React and Redux, this application offers powerful search and filtering capabilities to meet your property-hunting needs.
+
 
 ## Features
-- Search for rental properties.
-- Filter properties by price and other criteria.
-- Add properties to a favorites list for easy access.
-- Responsive design for various screen sizes.
+-Property Search: Easily search for rental properties based on various criteria.
+-Advanced Filtering: Refine property searches by price, location, and other relevant factors.
+-Favorites List: Save your preferred properties to a personal favorites list for quick access.
+-Responsive Design: Enjoy a consistent and user-friendly experience on different devices.
 
 ## Technologies Used
 - **Frontend:** React, Redux, JavaScript, HTML, CSS
@@ -37,7 +38,7 @@ This is a small web application to find rental properties. The app is built usin
 
 ## Usage
 - Open your browser and navigate to `http://localhost:3000`.
-- Browse through real-time cryptocurrency data and market trends.
-- Use the search and filter features to find the perfect property.
+- Browse through the list of available rental properties.
+- Use the search and filter options to find properties that best suit your needs.
 
 
