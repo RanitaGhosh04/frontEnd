@@ -13,25 +13,6 @@ Welcome to the Cryptocurrency Tracker App! This React-based application provides
 - **Frontend:** React, JavaScript, HTML, CSS
 ![image](https://github.com/user-attachments/assets/6e771b72-7179-4a4b-9b0b-013c13a0a2c2)
 
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/crypto-app.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd crypto-app
-    ```
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-4. Start the application:
-    ```bash
-    npm start
-    ```
-
 ## Usage
 - Open your browser and navigate to `http://localhost:3000`.
 - Explore the cryptocurrency prices and trends.
